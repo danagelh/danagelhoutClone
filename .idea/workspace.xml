@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0558273d-50d0-40d4-a52a-ad07fe57b389" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/CSC256Public.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CSC256Public.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitremote/test/unit/test_whats_my_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitremote/test/unit/test_whats_my_name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitremote/whats_my_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitremote/whats_my_name.py" afterDir="false" />
-    </list>
+    <list default="true" id="0558273d-50d0-40d4-a52a-ad07fe57b389" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,25 +131,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="936" height="289" key="GridCell.Tab.0.bottom" timestamp="1600648004749">
+    <state width="936" height="286" key="GridCell.Tab.0.bottom" timestamp="1600648488383">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="289" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/1920.1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600648004749" />
-    <state width="936" height="289" key="GridCell.Tab.0.center" timestamp="1600648004749">
+    <state width="936" height="286" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/1920.1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600648488383" />
+    <state width="936" height="286" key="GridCell.Tab.0.center" timestamp="1600648488382">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="289" key="GridCell.Tab.0.center/-1920.0.1920.1040/1920.1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600648004749" />
-    <state width="936" height="289" key="GridCell.Tab.0.left" timestamp="1600648004749">
+    <state width="936" height="286" key="GridCell.Tab.0.center/-1920.0.1920.1040/1920.1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600648488382" />
+    <state width="936" height="286" key="GridCell.Tab.0.left" timestamp="1600648488382">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="289" key="GridCell.Tab.0.left/-1920.0.1920.1040/1920.1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600648004749" />
-    <state width="936" height="289" key="GridCell.Tab.0.right" timestamp="1600648004749">
+    <state width="936" height="286" key="GridCell.Tab.0.left/-1920.0.1920.1040/1920.1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600648488382" />
+    <state width="936" height="286" key="GridCell.Tab.0.right" timestamp="1600648488382">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="289" key="GridCell.Tab.0.right/-1920.0.1920.1040/1920.1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600648004749" />
-    <state x="926" y="169" key="SettingsEditor" timestamp="1600647803521">
+    <state width="936" height="286" key="GridCell.Tab.0.right/-1920.0.1920.1040/1920.1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600648488382" />
+    <state x="926" y="169" key="SettingsEditor" timestamp="1600648439089">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="926" y="169" key="SettingsEditor/-1920.0.1920.1040/1920.1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600647803521" />
+    <state x="926" y="169" key="SettingsEditor/-1920.0.1920.1040/1920.1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600648439089" />
   </component>
 </project>
