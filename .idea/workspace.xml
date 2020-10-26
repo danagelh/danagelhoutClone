@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0558273d-50d0-40d4-a52a-ad07fe57b389" name="Default Changelist" comment="" />
+    <list default="true" id="0558273d-50d0-40d4-a52a-ad07fe57b389" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +50,7 @@
       <recent name="C:\pub\git\CSC256Public" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_whats_my_name.test_my_name_is">
+  <component name="RunManager" selected="Python tests.pytest in test_whats_my_name.py">
     <configuration name="whats_my_name" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CSC256Public" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,8 +105,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_whats_my_name.test_my_name_is" />
         <item itemvalue="Python tests.pytest in test_whats_my_name.py" />
+        <item itemvalue="Python tests.pytest for test_whats_my_name.test_my_name_is" />
         <item itemvalue="Python.whats_my_name" />
       </list>
     </recent_temporary>
@@ -131,22 +134,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="936" height="286" key="GridCell.Tab.0.bottom" timestamp="1600648488383">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="936" height="288" key="GridCell.Tab.0.bottom" timestamp="1601857034699">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="286" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/1920.1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600648488383" />
-    <state width="936" height="286" key="GridCell.Tab.0.center" timestamp="1600648488382">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="936" height="288" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/1920.1.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1601857034699" />
+    <state width="936" height="286" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/1920.1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600648612932" />
+    <state width="936" height="288" key="GridCell.Tab.0.center" timestamp="1601857034699">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="286" key="GridCell.Tab.0.center/-1920.0.1920.1040/1920.1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600648488382" />
-    <state width="936" height="286" key="GridCell.Tab.0.left" timestamp="1600648488382">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="936" height="288" key="GridCell.Tab.0.center/-1920.0.1920.1040/1920.1.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1601857034699" />
+    <state width="936" height="286" key="GridCell.Tab.0.center/-1920.0.1920.1040/1920.1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600648612932" />
+    <state width="936" height="288" key="GridCell.Tab.0.left" timestamp="1601857034699">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="286" key="GridCell.Tab.0.left/-1920.0.1920.1040/1920.1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600648488382" />
-    <state width="936" height="286" key="GridCell.Tab.0.right" timestamp="1600648488382">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="936" height="288" key="GridCell.Tab.0.left/-1920.0.1920.1040/1920.1.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1601857034699" />
+    <state width="936" height="286" key="GridCell.Tab.0.left/-1920.0.1920.1040/1920.1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600648612932" />
+    <state width="936" height="288" key="GridCell.Tab.0.right" timestamp="1601857034699">
+      <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="286" key="GridCell.Tab.0.right/-1920.0.1920.1040/1920.1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600648488382" />
+    <state width="936" height="288" key="GridCell.Tab.0.right/-1920.0.1920.1040/1920.1.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1601857034699" />
+    <state width="936" height="286" key="GridCell.Tab.0.right/-1920.0.1920.1040/1920.1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600648612932" />
     <state x="926" y="169" key="SettingsEditor" timestamp="1600648439089">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
